@@ -111,7 +111,7 @@ public class SinglyLinkedList {
     }
   }
 
-//  Delete Entire SinglyLinkedList
+//Delete Entire SinglyLinkedList
 public void deleteSLL() {
   head = null;
   tail = null;
